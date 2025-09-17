@@ -1,5 +1,5 @@
 # dbms-project
-This repository contains a SQL project for a fictional electronics retail store named JigiBoxZ. It was developed as a group project. The project includes the complete database schema, sample data, and a series of complex queries designed to answer various business questions and case studies. The database is designed to handle customer information, staff, vendors, product inventory, sales transactions, and purchase transactions.
+This repository contains a SQL project for a fictional electronics retail store named JigiBoxZ which is purely fictional. It was developed as a group project. The project includes the complete database schema, sample data, and a series of complex queries designed to answer various business questions and case studies. The database is designed to handle customer information, staff, vendors, product inventory, sales transactions, and purchase transactions.
 
 Skills & Concepts Demonstrated
 This project showcases a wide range of SQL skills, including:
@@ -27,3 +27,6 @@ Tech Stack
 - **Language**: SQL
 - **Core Skills**: Database Design, DDL, DML, DQL
 - **Paradigm**: Relational Database Management
+
+## Disclaimer
+All data and references used in this project are for **academic purposes only**.  
