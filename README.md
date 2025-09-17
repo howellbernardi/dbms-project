@@ -24,6 +24,6 @@ Core Concepts & Features
 
 Tech Stack
 - **Database**: Microsoft SQL Server
-- **Language**: T-SQL (Transact-SQL)
+- **Language**: SQL
 - **Core Skills**: Database Design, DDL, DML, DQL
 - **Paradigm**: Relational Database Management
